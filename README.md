@@ -93,4 +93,3 @@ A Java-based GUI application for managing travel bookings, customer details, hot
    CREATE DATABASE travelmanagementsystem;
    USE travelmanagementsystem;
    ```
-
